@@ -36,13 +36,6 @@
       ]
     },
     {
-      "type": "RAF",
-      "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
-      "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
@@ -86,13 +79,6 @@
       "countries": [
         "India"
       ]
-    },
-    {
-      "type": "RAF",
-      "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
-      "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
     },
     {
       "type": "kyc_complete",
